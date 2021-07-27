@@ -13,4 +13,4 @@
  - I love reading manga and webtoons on weekend and love catching up on anime 📖
 
 ### Reach me @
- - [linedIn](https://www.linkedin.com/in/umang-thapliyal-ba7339132/)
+ - [LinkedIn](https://www.linkedin.com/in/umang-thapliyal-ba7339132/)

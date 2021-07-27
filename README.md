@@ -12,5 +12,5 @@
  - I have always been a fan of pc games and play enjoy playing casual dota2 🎮
  - I love reading manga and webtoons on weekend and love catching up on anime 📖
 
-### Reach me @
+### Reach me 📲
  - [LinkedIn](https://www.linkedin.com/in/umang-thapliyal-ba7339132/)

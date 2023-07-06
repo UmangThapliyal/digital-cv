@@ -2,7 +2,7 @@
 
 ### A brief Intro 🤠
 
- - Working at Deepcompute for the past 3+ years, as Senior Software Developer.
+ - Working at Plum Insurance, as Senior Software Developer.
  - Love web technologies like React, Node.js and currently trying to learn vue.
  - Have experience in testing using codecptjs.
 

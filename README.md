@@ -2,8 +2,8 @@
 
 ### A brief Intro 🤠
 
- - Working at Plum Insurance, as Senior Software Developer.
- - Love web technologies like React, Node.js and currently trying to learn vue.
+ - Working at Avoma, as Senior Software Developer.
+ - Love web technologies like React, Node.js.
  - Have experience in testing using codecptjs.
 
 ### Hobbies 🎮
